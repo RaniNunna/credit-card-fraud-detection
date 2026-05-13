@@ -18,6 +18,12 @@ The dataset is highly imbalanced, making fraud detection a challenging real-worl
 
 ---
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+``
+
 ## 📊 Results
 
 - Initial Model:
